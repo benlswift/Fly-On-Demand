@@ -1,11 +1,3 @@
-curl -F mp3=@1900-FLYFM-29122018.mp3 \
-	 -F "name=API Upload" \
-	 -F "tags-0-tag=Test" \
-	 -F "tags-1-tag=API" \
-	 -F "sections-0-chapter=Introduction" \
-	 -F "sections-0-start_time=0" \
-	 -F "sections-1-artist=Artist Name" \
-	 -F "sections-1-song=Song Title" \
-	 -F "sections-1-start_time=10" \
-	 -F "description=My test upload" \
+curl -F mp3=@2000-FLYFM-29122018.mp3 \
+	 -F "name=Pre-Climax Show" \
 	 https://api.mixcloud.com//upload/?access_token=AWUhw5rG4Mf5gqhYVwYZDEKfeCp8gF3C
