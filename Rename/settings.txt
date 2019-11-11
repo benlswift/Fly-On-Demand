@@ -1,6 +1,0 @@
-10
-22
-E:/Logged\\ Audio
-E:\\schedule files
-https://api.mixcloud.com//upload/?access_token=qKz48A8ht5UQZsrK5kWVtLr59ppvsxF7
-09
